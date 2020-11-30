@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/chris1125/chris1125.github.io.git
+	branch = main

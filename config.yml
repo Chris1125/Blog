@@ -1,0 +1,4 @@
+baseURL: "https://chris1125.github.io"
+languageCode: "zh-cn"
+title: "Chris' Blog"
+theme: "hugo-PaperMod"
